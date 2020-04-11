@@ -10,6 +10,6 @@ echo $hello->talk();
 
 echo '<br>';
 
-$hi = new \HelloWorld\SayHello();
+$hi = new SayHello();
 echo $hi->world();
 
